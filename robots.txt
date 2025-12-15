@@ -11,3 +11,4 @@ Disallow: /images/
 
 
 Allow: /
+Sitemap: https://plakun-trava.github.io/V/sitemap.xml
